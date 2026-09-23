@@ -2367,6 +2367,7 @@ var cnames_active = {
   "oem": "linttrapmedia.github.io/oem",
   "of": "r37r0m0d3l.github.io/of",
   "officetohtml": "meshesha.github.io/officetohtml",
+  "omniplanner": "cname.vercel-dns.com", //DaT
   "offreddit": "pantheonlbs.github.io/offreddit",
   "oh-vue-icons": "oh-vue-icons.netlify.app",
   "ohmy": "mountainwang.github.io/ohmy",
