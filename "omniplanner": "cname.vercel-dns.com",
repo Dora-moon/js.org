@@ -2366,7 +2366,6 @@ var cnames_active = {
   "oec": "crellison.github.io/oec",
   "oem": "linttrapmedia.github.io/oem",
   "of": "r37r0m0d3l.github.io/of",
-  "omniplanner": "cname.vercel-dns.com",
   "officetohtml": "meshesha.github.io/officetohtml",
   "offreddit": "pantheonlbs.github.io/offreddit",
   "oh-vue-icons": "oh-vue-icons.netlify.app",
@@ -2381,6 +2380,7 @@ var cnames_active = {
   "omer": "omeroot.github.io", // noCF? (don´t add this in a new PR)
   "omg": "pengjiyuan.github.io/omg",
   "omid": "omidnikrah.github.io/omid",
+  "omniplanner": "cname.vercel-dns.com",
   "omnistorage": "x-labs-myid.github.io/omnistorage",
   "omniutils": "cname.vercel-dns.com", // noCF
   "ongaku": "anshuman-verma.github.io/ongaku",
